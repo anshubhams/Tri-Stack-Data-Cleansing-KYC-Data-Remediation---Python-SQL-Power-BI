@@ -22,3 +22,10 @@ An enterprise-grade risk pipeline that ingests raw, erratic banking transactions
 * 📉 **The Risk Concentration Hotspots:** Current accounts carry the highest overall risk profile with an average fraud score of 51.77. However, when isolating the critical "High" risk segment specifically, Credit accounts surge to the front with a peak severity index of 51.93.
 * 📈 **Scale Stress Testing:** Transaction volumes expanded exponentially by 294% over the tracked period, leaping from 192 monthly transactions to a peak of 758. Despite this scaling, the portfolio's average fraud baseline remained tight between 49.9 and 53.3.
 * 🚨 **Audit Backlog Inbound:** A critical 33.44% of total deduplicated data (807 accounts) is classified under the "High" risk segment, allowing management to optimize team assignments based on exact risk severity.
+
+
+## Screenshots:
+
+![Project Structure](tri-stack-structure.png)
+
+![Power BI Dashboard](pbi_dasboard.png)
